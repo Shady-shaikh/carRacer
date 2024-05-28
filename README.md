@@ -23,16 +23,8 @@ carRacer is an exciting one-page game where you control a car using the arrow ke
 * How to run the program
 * Open index.html in your browser:
 You can simply open the index.html file in your favorite web browser to view the website locally.
-```
-code blocks for commands
-```
 
-## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
@@ -42,7 +34,4 @@ ex. Abu Osama Shaikh
 ex. https://www.linkedin.com/in/usama-shaikh-81294a306/
 
 
-## License
-
-This project is licensed under the [Abu Osama Shaikh] License 
 
