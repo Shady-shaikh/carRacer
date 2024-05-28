@@ -1,6 +1,5 @@
 carRacer
 
-
 carRacer is an exciting one-page game where you control a car using the arrow keys. Navigate through traffic, avoid collisions, and rack up the highest score you can!
 
 Website URL
@@ -8,6 +7,7 @@ Website URL
 Visit the live site: https://shady-shaikh.github.io/carRacer
 
 Features
+
 Interactive Controls: Use the up, down, right, and left arrow keys to control your car.
 Start Game: Click on the "Press Here" section to start the game.
 Score Tracking: Your score increases as you avoid obstacles. Upon collision, your final score is displayed, and you can restart the game.
