@@ -17,6 +17,9 @@ carRacer is an exciting one-page game where you control a car using the arrow ke
 * Clone the repository: git clone https://github.com/Shady-shaikh/carRacer.git
 * Navigate to the project directory: cd carRacer
 
+### Site Details
+
+* Url https://shady-shaikh.github.io/carRacer/
 
 ### Executing program
 
